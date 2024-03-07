@@ -4,6 +4,6 @@
 
 ## Technologies Used
 
-- Next 13
+- Next JS
 - Tailwind CSS
 - Locofy.ai(Figma)
